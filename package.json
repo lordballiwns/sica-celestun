@@ -1,12 +1,12 @@
 {
-    "name": "sica-celestun",
-    "version": "2.0.0",
-    "title": "SICA Celestún",
-    "icon": "🛡️",
-    "description": "Monitoreo Ciclónico basado en SICA 4 Celestún.",
-    "author": "Lord Balliwns (Proyecto Tigger Swan)",
-    "repository": "https://github.com/lordballiwns/sica-celestun.git",
-    "desktopUI": "rhpane",
-    "mobileUI": "fullscreen",
-    "windyApi": "4"
+  "name": "windy-plugin-sica-celestun",
+  "version": "2.0.0",
+  "title": "SICA Celestún",
+  "author": "Lord Balliwns",
+  "repository": "https://github.com/lordballiwns/sica-celestun",
+  "main": "dist/plugin.js",
+  "type": "module",
+  "desktopUI": "rhpane",
+  "mobileUI": "fullscreen",
+  "windyApi": "4"
 }
