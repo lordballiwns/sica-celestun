@@ -1,14 +1,12 @@
 {
-  "name": "windy-plugin-sica-celestun",
-  "version": "1.0.0",
-  "title": "SICA Celestún",
-  "description": "Monitoreo Ciclónico basado en el Manual SICA 4 Celestún. Proyecto Tigger Swan.",
-  "author": "Lord Balliwns",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/lordballiwns/sica-celestun"
-  },
-  "windyApi": "4",
-  "icon": "🛡️",
-  "permissions": ["weatherData"]
+    "name": "sica-celestun",
+    "version": "2.0.0",
+    "title": "SICA Celestún",
+    "icon": "🛡️",
+    "description": "Monitoreo Ciclónico basado en SICA 4 Celestún.",
+    "author": "Lord Balliwns (Proyecto Tigger Swan)",
+    "repository": "https://github.com/lordballiwns/sica-celestun.git",
+    "desktopUI": "rhpane",
+    "mobileUI": "fullscreen",
+    "windyApi": "4"
 }
